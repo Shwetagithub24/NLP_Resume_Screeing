@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+python-docx
+PyPDF2
+#pickle
+nltk
+numpy
+pandas
+transformers
+dotenv
+spacy
+skillner
