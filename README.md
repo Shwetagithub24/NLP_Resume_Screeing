@@ -30,6 +30,7 @@ The model is trained using One-vs-Rest Classifier with support for:
 - KNN
 - Random Forest
 TF-IDF vectorization converts resumes into numerical features.
+
 The model achieves high accuracy on the test dataset, showcasing its effectiveness in resume classification.
 Model Accuracy: 98.45% (The accuracy score is computed using sklearn.metrics.accuracy_score)
 
